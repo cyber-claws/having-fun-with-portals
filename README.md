@@ -6,6 +6,6 @@
 
 ```bash
 $ git clone https://github.com/cyber-claws/having-fun-with-portals.git
-$ having-fun-with-portals/ && npm i
+$ cd having-fun-with-portals/ && npm i
 $ npm start
 ```
